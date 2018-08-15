@@ -1,5 +1,5 @@
 # Economic-Allocation-Model
-Detailed economic allocation model
+
 This model takes into account volatility, valuation, weekly indicators, economy, manufacturing, housing, spending and employment.
 
 It provides how much a portfolio should be invested in stocks vs cash or bonds. It also provides a signal when someone should be in cash or stocks.
